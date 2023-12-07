@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hey 👋! My name is Heiko and I'm a IT student, from Switzerland<br><br>
+# 💫 Hey 👋! My name is Heiko and I'm a IT student, from Switzerland<br><br>
+
 
 
 ## 🌐 Socials:
